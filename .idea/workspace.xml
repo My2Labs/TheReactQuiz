@@ -1,29 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="60f30f5e-6c65-40cc-82b5-de0907efebeb" name="Changes" comment="" />
+    <list default="true" id="60f30f5e-6c65-40cc-82b5-de0907efebeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/DateCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/FinishScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/NextButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Question.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/StartScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/components/components/Timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/data/questions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-no-content/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/QuizContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2cdQHOesZSWPaBLMBtOR3UgwX7o" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sharr/Projects/React/react-quiz/src/components",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sharr/Projects/React/react-quiz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -42,10 +78,15 @@
       <option name="presentableId" value="Default" />
       <updated>1708438886192</updated>
       <workItem from="1708438887219" duration="67000" />
+      <workItem from="1709041656600" duration="79000" />
+      <workItem from="1709553157429" duration="1651000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
